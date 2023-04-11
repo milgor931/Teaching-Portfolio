@@ -1,3 +1,3 @@
 # Milana's Teaching Portfolio Resource
 
-* [Explaining a Snap Program]()
+* [Sequences Code Explanation Video](https://youtu.be/nCcOz_TFNgI)
