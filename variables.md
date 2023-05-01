@@ -1,1 +1,1 @@
-![Variable Demonstration in Snap](https://youtu.be/B6rvkKAtVa0)
+[Variable Demonstration in Snap](https://youtu.be/B6rvkKAtVa0)
